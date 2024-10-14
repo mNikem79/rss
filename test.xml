@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Последние новости</title>
+  <link href="https://example.com/rss" rel="self"/>
+  <updated>2024-10-14T12:00:00Z</updated>
+  <id>https://example.com/rss</id>
+
+  <entry>
+    <title>Заголовок статьи 1</title>
+    <link href="https://example.com/article1"/>
+    <updated>2024-10-14T12:00:00Z</updated>
+    <id>https://example.com/article1</id>
+    <summary>Краткое содержание статьи 1.</summary>
+  </entry>
+
+  <entry>
+    <title>Заголовок статьи 2</title>
+    <link href="https://example.com/article2"/>
+    <updated>2024-10-14T12:00:00Z</updated>
+    <id>https://example.com/article2</id>
+    <summary>Краткое содержание статьи 2.</summary>
+  </entry>
+
+  <entry>
+    <title>Заголовок статьи 3</title>
+    <link href="https://example.com/article3"/>
+    <updated>2024-10-14T12:00:00Z</updated>
+    <id>https://example.com/article3</id>
+    <summary>Краткое содержание статьи 3.</summary>
+  </entry>
+
+</feed>
